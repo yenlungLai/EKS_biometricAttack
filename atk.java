@@ -36,6 +36,7 @@ public class atk {
 				sb.append(","); 
 			}
 			fr.close(); 
+			
 
 			String vec1 = sb.toString();
 			vector1 = vec1.split(",");
