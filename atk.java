@@ -23,6 +23,8 @@ public class atk {
 	public static void main(String[] args) {
 
 		
+		
+		
 		//********************Load x1 and x2 as different biometric feature vector****************//
 		try {
 
