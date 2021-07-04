@@ -22,7 +22,6 @@ public class atk {
 
 	public static void main(String[] args) {
 
-	//add comment
 		
 		//********************Load x1 and x2 as different biometric feature vector****************//
 		try {
