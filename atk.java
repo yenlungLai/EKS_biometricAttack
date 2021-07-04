@@ -21,10 +21,6 @@ public class atk {
 	static String[] vector2;
 
 	public static void main(String[] args) {
-   
-		
-		
-		
 		
 		
 		//********************Load x1 and x2 as different biometric feature vector****************//
