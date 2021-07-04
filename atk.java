@@ -21,7 +21,9 @@ public class atk {
 	static String[] vector2;
 
 	public static void main(String[] args) {
-
+   
+		
+		
 		
 		
 		
