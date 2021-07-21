@@ -1,7 +1,7 @@
 # EKS_biometricAttack
 
 JAVA implementation of efficinet known sample attack for distance preserving biometric template protection scheme.
-Save the code in your project folder. The code can start directly from Eclipse by running atk.java
+Save the code in your project folder. The code can start directly from Eclipse by running Attack.java
 
 Reference:
 Y. Lai, Z. Jin, K. Wong and M. Tistarelli, "Efficient Known-Sample Attack for Distance-Preserving Hashing Biometric Template Protection Schemes," 
