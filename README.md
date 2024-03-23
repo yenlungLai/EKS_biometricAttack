@@ -7,3 +7,10 @@ The code has been simplified by just taking two raw samples (without additional 
 Reference:
 Y. Lai, Z. Jin, K. Wong and M. Tistarelli, "Efficient Known-Sample Attack for Distance-Preserving Hashing Biometric Template Protection Schemes," 
 in IEEE Transactions on Information Forensics and Security, vol. 16, pp. 3170-3185, 2021, doi: 10.1109/TIFS.2021.3073802.
+
+
+
+
+***Remark**
+
+This paper has also introduced a countermeasure that incorporates transformation and authentication mechanisms. It is crucial to note that the transformation function used for template transformation has been found to be vulnerable under security analysis conducted by Paik, S., Kim, S., & Seo, J. H. (2023) in their work titled "Security Analysis on Locality-Sensitive Hashing-Based Biometric Template Protection Schemes
